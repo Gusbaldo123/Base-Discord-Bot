@@ -1,0 +1,37 @@
+{
+    "Prefix": "!",
+    "Discord": {
+        "Token": "Coloque aqui o token",
+        "Channels": {
+            "General": "general",
+            "Register": "register"
+        },
+        "Roles": {
+            "Member": "default",
+            "Admin": "Lider",
+            "Reaction_Roles": {
+                "Member": "👍"
+            }
+        },
+        "Messages": {
+            "Miss_Permission": "Lorem Ipsum"
+        },
+        "Emojis":[
+            "coin_sell","like_sell","📢","👮","🕒","parrot_sell"
+        ]
+    },
+    "mysql": [
+        {
+            "host": "remotemysql.com",
+            "user": "username",
+            "password": "password",
+            "database": "username"
+        },
+        {
+            "host": "localhost",
+            "user": "root",
+            "password": "",
+            "database": "data_base_name"
+        }
+    ]
+}

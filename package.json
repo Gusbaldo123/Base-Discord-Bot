@@ -1,0 +1,16 @@
+{
+  "name": "default-bot",
+  "version": "1.0.0",
+  "description": "default-change-default-change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "mysql": "^2.18.1"
+  }
+}
